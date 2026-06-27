@@ -1,0 +1,6 @@
+{
+  "name": "1000 Hari Pertama",
+  "description": "Platform tumbuh kembang anak untuk 1000 hari pertama kehidupan, mencakup pelacakan pertumbuhan, imunisasi, modul promil (program hamil), cerita anak, dan rekomendasi produk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
